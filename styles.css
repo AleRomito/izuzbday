@@ -65,7 +65,8 @@ footer p{
 }
 #countdown{
     padding: 0 0 150px 0;
-    font-family: "Londrina Solid", sans-serif;
+    font-family: "Gabarito", sans-serif;
+    font-weight: bolder;
     font-size: 3rem;
 }
 #EV{
